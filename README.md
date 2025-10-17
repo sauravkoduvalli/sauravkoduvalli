@@ -8,14 +8,14 @@
 - ☁️ Interested in **cloud integration** (`AWS`), **API design**, and **scalable backend systems**
 - 🎯 My goal is to build impactful digital products and grow as a **Full-Stack Product Engineer**
 
-
+<!-- 
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Dart
 - **Frontend:** React.js, Next.js, Redux Toolkit, TailwindCSS, Material UI
 - **Mobile:** React Native (Expo), Flutter, Bloc
 - **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, RESTful API
-- **Tools:** Git, GitHub, Docker (learning), AWS (Basics), Firebase, Figma, Postman
+- **Tools:** Git, GitHub, Docker (learning), AWS (Basics), Firebase, Figma, Postman -->
 
 ## 📊 GitHub Stats
 
