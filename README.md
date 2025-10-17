@@ -1,6 +1,6 @@
 # Hi there, I'm Saurav K👋
 
-**👽 Front-End/Mobile Developer | Aspiring Full-Stack Engineer (`MERN Stack`)**
+**Front-End/Mobile Developer | Aspiring Full-Stack Engineer (`MERN Stack`)**
 
 - ✨ Solving real-world problems through clean and scalable code since _2020_
 - 👨🏻‍💻 Developing web & mobile applications using `React JS`, `React Native` and `Flutter`
@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sauravkoduvalli&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravkoduvalli&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com?user=sauravkoduvalli&theme=dark&hide_border=true&border_radius=5" height="150" alt="GitHub Streak"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=sauravkoduvalli&theme=dark&hide_border=true&border_radius=5" height="150" alt="GitHub Streak"/> -->
 </div>
 
 ## 🌐 Connect and Collaborate
